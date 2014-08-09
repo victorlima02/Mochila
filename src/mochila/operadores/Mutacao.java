@@ -23,7 +23,7 @@
  */
 package mochila.operadores;
 
-import ic.ce.populacional.seres.binarios.mutadores.MutadorBinario;
+import ic.ce.seres.binarios.mutadores.MutadorBinario;
 import mochila.ambiente.ListaDeItens;
 
 

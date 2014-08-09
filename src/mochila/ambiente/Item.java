@@ -24,7 +24,7 @@
 package mochila.ambiente;
 
 
-import ic.ce.populacional.seres.binarios.LocusBinario;
+import ic.ce.seres.binarios.LocusBinario;
 
 /**
  *

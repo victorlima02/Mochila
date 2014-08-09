@@ -23,10 +23,10 @@
  */
 package mochila;
 
-import ic.ce.populacional.Ambiente;
+import ic.ce.base.Ambiente;
 import ic.ce.populacional.algoritmo.AlgoritmoPopulacional;
-import ic.ce.populacional.algoritmo.operadores.Gerador;
-import ic.ce.populacional.algoritmo.operadores.Mutador;
+import ic.ce.base.algoritmo.operadores.Gerador;
+import ic.ce.base.algoritmo.operadores.Mutador;
 import ic.ce.populacional.algoritmo.operadores.Recombinador;
 import ic.ce.populacional.algoritmo.operadores.Seletor;
 import java.util.Arrays;

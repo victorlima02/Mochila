@@ -23,8 +23,8 @@
  */
 package mochila.ambiente;
 
-import ic.ce.populacional.Caracteristica;
-import ic.ce.populacional.seres.binarios.SerBinario;
+import ic.ce.base.Caracteristica;
+import ic.ce.seres.binarios.SerBinario;
 
 /**
  *

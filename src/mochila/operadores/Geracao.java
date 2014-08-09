@@ -24,10 +24,10 @@
 package mochila.operadores;
 
 
-import ic.ce.populacional.Ambiente;
+import ic.ce.base.Ambiente;
 import ic.ce.populacional.Populacao;
-import ic.ce.populacional.algoritmo.operadores.Gerador;
-import ic.ce.populacional.utilidades.Binarios;
+import ic.ce.base.algoritmo.operadores.Gerador;
+import ic.ce.base.utilidades.Binarios;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;

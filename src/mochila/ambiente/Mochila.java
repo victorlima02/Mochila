@@ -24,8 +24,8 @@
 package mochila.ambiente;
 
 
-import ic.ce.populacional.Ambiente;
-import ic.ce.populacional.Caracteristica;
+import ic.ce.base.Ambiente;
+import ic.ce.base.Caracteristica;
 import java.util.List;
 
 /**

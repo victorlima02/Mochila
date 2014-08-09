@@ -23,7 +23,7 @@
  */
 package mochila.operadores;
 
-import ic.ce.populacional.seres.binarios.recombinadores.RecombinadorBinario;
+import ic.ce.seres.binarios.recombinadores.RecombinadorBinario;
 import java.util.List;
 import mochila.ambiente.ListaDeItens;
 
